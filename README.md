@@ -1,2 +1,0 @@
-# Thor
- Ragnarok Online
